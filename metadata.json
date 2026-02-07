@@ -1,0 +1,9 @@
+{
+  "name": "SkillSwap Campus",
+  "description": "A barter-based marketplace for college students featuring advanced Gemini AI creative tools and real-time voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
